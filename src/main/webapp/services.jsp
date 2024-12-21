@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About Page</title>
+<title>Services</title>
 </head>
 <body>
-	<h1>Established @2024 \n All rights reserved..</h1>
-	<a href="services.jsp">Service Page</a>
+	<h1>This is Service page of our project</h1>
 </body>
 </html>
