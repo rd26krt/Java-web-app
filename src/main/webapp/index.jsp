@@ -10,6 +10,6 @@
 	<h1>This is home page of project</h1>
 	<h2>Welcome enthusiastic Developers</h2>
 	<p>Welcome Onboard on our learning journey</p>
-	<a href="index.jsp">About Page</a>
+	<a href="About.jsp">About Page</a>
 </body>
 </html>
